@@ -9,7 +9,7 @@ $smtp_username   = "no-reply@expatcarbuyers.com";
 $smtp_password   = "7#XY4zOm7Bl";
 $smtp_encryption = "ssl";
 $from_email      = "no-reply@expatcarbuyers.com";
-$from_name       = "Abid Sabir Portfolio";
+$from_name       = "Abid Ali Portfolio";
 
 if (!defined("PHP_EOL")) define("PHP_EOL", "\r\n");
 
